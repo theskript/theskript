@@ -6,14 +6,16 @@
 
 `// full stack, front to back.`
 
-I own the path from design hand-off to release for pharma, medical-device and diagnostics teams: Drupal, WordPress and Astro sites, Veeva CLM presentations, regulated email, and AI-assisted workflows under human review. Based in the Tampa Bay Area, Florida. Open to lead engineering roles and to contracts.
+I own the path from design hand-off to release for pharma, medical-device and diagnostics teams: Drupal, WordPress and Astro sites, Veeva CLM presentations, regulated email, and AI-assisted workflows under human review. Based in the Tampa Bay Area, Florida. Open to senior, lead and staff engineering roles (full stack or front end), and to contract work.
 
 ## Public work
 
 - [approved-edits](https://github.com/theskript/approved-edits): a small command-line tool where a person approves each text change before it is applied, backed up and checked. Seven tests, no dependencies.
 - [ask-the-portfolio](https://github.com/theskript/ask-the-portfolio): a Nuxt 4 question-answering app with local embeddings, cited answers and refusal when it has no answer. Fourteen unit tests and an evaluation script.
+- [release-plan](https://github.com/theskript/release-plan): a plan, apply, verify and rollback method for releasing a built folder onto a target folder, on sample data. Read-only plan, a reviewed plan id that apply must match, backups, a ledger, tests, no dependencies.
+- [evidence-gated-build](https://github.com/theskript/evidence-gated-build): a refuse-by-default compiler for an invented layout format, with a corpus, a canary and a numeric verifier, and in-sample and held-out results reported separately. Tests, no dependencies.
 
-Both are demonstrations with no client material. Each README states what was measured and what was not.
+All four are demonstrations with no client or employer material. Each README states what was measured and what was not.
 
 ## Client work
 
