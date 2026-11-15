@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" fill="none" role="img" aria-label="theskript mark">
+  <defs>
+    <clipPath id="hx"><path d="M179.84 23.2A15 15 0 0 1 192.83 30.7L244.67 120.5A15 15 0 0 1 244.67 135.5L192.83 225.3A15 15 0 0 1 179.84 232.8L76.16 232.8A15 15 0 0 1 63.17 225.3L11.33 135.5A15 15 0 0 1 11.33 120.5L63.17 30.7A15 15 0 0 1 76.16 23.2Z"/></clipPath>
+  </defs>
+  <path fill="#090d1a" d="M179.84 23.2A15 15 0 0 1 192.83 30.7L244.67 120.5A15 15 0 0 1 244.67 135.5L192.83 225.3A15 15 0 0 1 179.84 232.8L76.16 232.8A15 15 0 0 1 63.17 225.3L11.33 135.5A15 15 0 0 1 11.33 120.5L63.17 30.7A15 15 0 0 1 76.16 23.2Z"/>
+  <polygon fill="#4a42f5" clip-path="url(#hx)" points="199,5 57,251 -10,251 -10,5"/>
+  <path clip-path="url(#hx)" stroke="#eef2ff" stroke-width="6" d="M179.84 23.2A15 15 0 0 1 192.83 30.7L244.67 120.5A15 15 0 0 1 244.67 135.5L192.83 225.3A15 15 0 0 1 179.84 232.8L76.16 232.8A15 15 0 0 1 63.17 225.3L11.33 135.5A15 15 0 0 1 11.33 120.5L63.17 30.7A15 15 0 0 1 76.16 23.2Z"/>
+  <path d="M178 44H110L76 86L110 128H146L180 170L146 212H78" stroke="#eef2ff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="76" cy="86" r="20" fill="#eef2ff"/>
+  <circle cx="180" cy="170" r="20" fill="#eef2ff"/>
+  <circle cx="183" cy="35" r="25" fill="#ff6a3d" stroke="#090d1a" stroke-width="9"/>
+  <circle cx="73" cy="221" r="17" fill="#eef2ff" stroke="#090d1a" stroke-width="5"/>
+</svg>
