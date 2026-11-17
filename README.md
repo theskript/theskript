@@ -6,7 +6,7 @@
 
 `// full stack, front to back.`
 
-I own the path from design hand-off to release for pharma, medical-device and diagnostics teams: Drupal, WordPress and Astro sites, Veeva CLM presentations, regulated email, and AI-assisted workflows under human review. Based in the Tampa Bay Area, Florida. Open to senior, lead and staff engineering roles (full stack or front end), and to contract work.
+I own the path from design hand-off to release: CMS platforms, custom applications, integrations, and the scripts and checks that make a release repeatable. Based in the Tampa Bay Area, Florida. Questions about senior and lead engineering roles are welcome.
 
 ## Public work
 
@@ -17,9 +17,9 @@ I own the path from design hand-off to release for pharma, medical-device and di
 
 All four are demonstrations with no client or employer material. Each README states what was measured and what was not.
 
-## Client work
+## Employer and client work
 
-Client projects are confidential, so they are not on this profile. They are described without names, with the decisions and trade-offs, in the case studies on [theskript.com/work](https://theskript.com/work/).
+Employer and client work is not published. What is here is my own, on sample data, and the case studies and engineering notes are on [theskript.com/work](https://theskript.com/work/).
 
 ## Stack
 
