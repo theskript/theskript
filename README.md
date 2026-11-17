@@ -2,7 +2,7 @@
 
 # Ahmed Rahim
 
-**Lead full stack engineer for regulated healthcare web platforms: built, released and kept running.**
+**Lead full stack engineer: built, released and kept running.**
 
 `// full stack, front to back.`
 
@@ -23,7 +23,7 @@ Employer and client work is not published. What is here is my own, on sample dat
 
 ## Stack
 
-TypeScript, JavaScript, Astro, Node.js, Python, PHP, PostgreSQL, Drupal, WordPress, Veeva CLM, Adobe Experience Manager, HTML email, GitHub Actions, Playwright, Vitest.
+TypeScript, JavaScript, React, Astro, Node.js, Python, PHP, PostgreSQL, AWS, Drupal, WordPress, Veeva CLM, Adobe Experience Manager, HTML email, GitHub Actions, Playwright, Vitest.
 
 ## Contact
 
